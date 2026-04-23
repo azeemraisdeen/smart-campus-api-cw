@@ -1,8 +1,11 @@
 # Smart Campus Sensor & Room Management API - Coursework
 
 **Name:** Azeem Raisdeen
+
 **UoW ID:** 21202472
+
 **IIT ID:** 20231169
+
 **Module:** 5COSC022W - Client-Server Architectures  
 
 A RESTful API built with JAX-RS (Jersey 2) and Grizzly embedded server for managing campus rooms and IoT sensors.
