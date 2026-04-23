@@ -70,7 +70,7 @@ smart-campus-api/
 ### Steps
 
 ```bash
-git clone https://github.com/azeemraisdeen/smart-campus-api.git
+git clone https://github.com/azeemraisdeen/smart-campus-api-cw.git
 cd smart-campus-api
 mvn clean package
 java -jar target/smart-campus-api-1.0.0.jar
